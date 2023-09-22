@@ -1,7 +1,6 @@
 # Projetos-que-ja-participei
 ## Irei colocar alguns links de plataformas que já atuei, estará o link 
-# Semar
-Segue o link de um projeto que atuei, fui responsavel pelo front-end  => https://www.semarentrega.com.br/
+
 # STW
 Fui responsavél, por desenvolver o front-end dessa plataforma institucional inteira => https://www.stwipis.com/
 # Blog STW
